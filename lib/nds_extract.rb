@@ -47,7 +47,7 @@ def total_gross(source)
     total += dir_to_earnings_hash[dir_name]
     index += 1
   end
-
+total
   
 end
 
